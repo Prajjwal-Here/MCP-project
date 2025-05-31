@@ -81,7 +81,7 @@ The app uses a single NLP endpoint that routes queries to the correct module:
 
 - **Strategy Suggestion**  
   Suggest movesets, battle tactics.  
-  _Example_: `How should I use Scizor in battle?`
+  _Example_: `What is the best strategy for Alakazam?`
 
 - **Pokémon Comparison**  
   Compare stats, typing, and effectiveness.  
@@ -89,7 +89,7 @@ The app uses a single NLP endpoint that routes queries to the correct module:
 
 - **Team Builder**  
   Generate a full team from a goal.  
-  _Example_: `Create a balanced team with good type coverage`
+  _Example_: `Make a team.`
 
 ---
 
