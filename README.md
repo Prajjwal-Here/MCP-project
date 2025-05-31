@@ -49,6 +49,7 @@ mcp_server/
 │   ├── pokemon.py        # Pokémon info
 │   ├── strategy.py       # Strategy suggestions
 │   ├── team.py           # Team builder
+|   |-- nlp.py            # natural language
 │   ├── type_info.py      # Type matchups
 │   └── __init__.py
 │
@@ -57,9 +58,9 @@ mcp_server/
 │   ├── fetcher.py        # Fetches data from APIs
 │   └── __init__.py
 │
-├── app.py                # App factory setup
+├── app.py                # Launch script
 ├── config.py             # App settings
-├── run.py                # Launch script
+├── run.py                
 ├── requirements.txt      # Python dependencies
 └── logs/                 # Optional runtime logs
 ```
